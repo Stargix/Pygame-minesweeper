@@ -1,5 +1,5 @@
 # Pygame-minesweeper
-An script of the game minesweeper developed with pygame based on Google minesweeper interface
+A script of the game minesweeper developed with pygame based on Google minesweeper interface
 
 ## Instructions
 - Insert the font path on the script
