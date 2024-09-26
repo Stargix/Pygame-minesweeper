@@ -5,4 +5,7 @@ An script of the game minesweeper developed with pygame based on Google mineswee
 - Insert the font path on the script
 - Run the code and select difficulty (board size)
 
-![Descripción de la imagen](images/Minesweeper1.png)
+<img src="images/Minesweeper1.png" alt="Minesweeper1" width="300"/>
+
+<img src="images/Minesweeper2.png" alt="Minesweeper2" width="300"/>
+
